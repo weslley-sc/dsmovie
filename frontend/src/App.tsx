@@ -1,5 +1,7 @@
+import Navbar from "./componenets/Navbar";
+
 function App() {
-  return <h1>Página Principal</h1>;
+  return <Navbar />;
 }
 
 export default App;
